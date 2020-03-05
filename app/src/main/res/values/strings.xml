@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sayacim</string>
+    <string name="olay_basligi">Olay Başlığı</string>
+    <string name="olay_aciklamasi">Olay Açıklaması</string>
+    <string name="olay_tarihi">Olay Tarihi</string>
+    <string name="olay_actionbar">Yeni Olay Ekle</string>
+</resources>
